@@ -1,0 +1,11 @@
+[group4]
+server1.domain
+server2.domain
+
+[group4]
+server3.domain
+server4.domain
+
+[group6]
+server5.domain
+server6.domain
